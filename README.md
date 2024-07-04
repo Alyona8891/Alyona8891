@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alyona</h1>
-<h3 align="center">I’m a big fun of js and now looking for a job on position of react/frontend developer. Feel free to contact me!</h3>
+<h3 align="center">I’m a big fan of js and now looking for a job on position of react/frontend developer. Feel free to contact me!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alyona8891&label=Profile%20views&color=0e75b6&style=flat" alt="alyona8891" /> </p>
 
